@@ -2,9 +2,10 @@
 
 Combining Evolutionary Learning, Active Learning and Ensemble Learning to solve the Higgs Boson Detection problem.
 
-**Course:** Advanced ML II (MESIIN595624)  
+**Course:** Advanced ML II  
 **Institution:** ESILV-DIA5  
-**Academic Year:** 2025-2026
+**Academic Year:** 2025-2026  
+**Student:** Tom DELAHAYE
 
 ---
 
